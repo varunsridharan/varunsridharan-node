@@ -1,20 +1,22 @@
 {
-  "name"         : "varunsridharan",
-  "version"      : "1.0.2",
-  "description"  : "Get to know Varun Sridharan via `npx varunsridharan`.",
-  "bin"          : {
-	"awais" : "index.js"
-  },
-  "dependencies" : {
-	"cli-welcome" : "^2.2.0"
-  },
-  "keywords"     : ["varunsridharan"],
-  "license"      : "MIT",
-  "main"         : "index.js",
-  "repository"   : "varunsridharan/varunsridharan-node",
-  "author"       : {
-	"name"  : "Varun Sridharan",
-	"email" : "varunsridharan23@gmail.com",
-	"url"   : "https://twitter.com/varunsridharan2"
-  }
+ "name": "varunsridharan",
+ "version": "1.0.3",
+ "description": "Get to know Varun Sridharan via `npx varunsridharan`.",
+ "bin": {
+  "awais": "index.js"
+ },
+ "dependencies": {
+  "cli-welcome": "^2.2.0"
+ },
+ "keywords": [
+  "varunsridharan"
+ ],
+ "license": "MIT",
+ "main": "index.js",
+ "repository": "varunsridharan/varunsridharan-node",
+ "author": {
+  "name": "Varun Sridharan",
+  "email": "varunsridharan23@gmail.com",
+  "url": "https://twitter.com/varunsridharan2"
+ }
 }
