@@ -1,0 +1,10 @@
+{
+ "name": "varunsridharan",
+ "version": "1.0.0",
+ "bin": {
+  "varunsridharan": "index.js"
+ },
+ "dependencies": {
+  "clear-any-console": "^1.16.0"
+ }
+}
